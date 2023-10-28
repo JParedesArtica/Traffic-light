@@ -1,0 +1,45 @@
+.container{
+    display: grid;
+    place-items: center;
+    
+}
+#trafficTop{
+    width : 20px;
+    height : 100px;
+    background-color: black;
+    
+
+}
+#semaforo {
+    width : 100px;
+    height : 300px;
+    background-color: black;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;   
+}
+
+
+.light {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;   
+    margin: 10px
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.selected{
+    box-shadow: 0 0 15px 10px rgb(241, 241, 237);
+}
