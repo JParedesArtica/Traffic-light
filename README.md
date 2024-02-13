@@ -20,6 +20,14 @@ Simularemos un semáforo interactivo que refleja las luces de un semáforo real.
 
 - **Botón Cambiar Color:** Al hacer clic, el botón de cambiar color alterna entre rojo, verde y amarillo.
 
+## ¿Cómo empezar a codificar?
+
+- Instalar los paquetes con `$ npm install`.
+- Ejecute el servidor webpack con `$ npm run start`
+
+Puede actualizar `styles/index.css` o `js/index.js` según sus necesidades.
+Agregue más archivos a su carpeta `./src/js/components` o estilos cuando los necesite.
+
 ---
 
 Este proyecto es una oportunidad para aplicar y demostrar los conocimientos adquiridos durante el bootcamp de 4Geeks Academy. ¡Gracias por explorar este proyecto!
